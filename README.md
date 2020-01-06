@@ -69,7 +69,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Frameworks
 
-- [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framwork using the event driven development paradigm.
+- [GluePHP](https://github.com/GlueApps/GluePHP): Single page applications development framework using the event driven development paradigm.
 - [mailProc](https://github.com/daxslab/mailProc): Mail based services microframework.
 
 ## Game Engine
@@ -143,7 +143,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 
 ## Telegram Bots
 
-- [Cuba-Weather_bot](https://github.com/correalyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
+- [Cuba-Weather_bot](https://github.com/correaleyval/Cuba-Weather_bot) consults weather info from www.redcuba.cu using [cuba-weather](https://github.com/daxslab/cuba-weather).
 - [web_podcast](https://github.com/rocana95/web-podcast) bot serving ElEnjambre podcasts via Telegram.
 
 ## Web Development
@@ -172,7 +172,7 @@ Awesome list of Cuban open source projects. Just to know what is being openly de
 - [OJS Social Metatags](https://github.com/daxslab/ojs-social-metatags): Adds Open Graph and Twitter Cards meta tags to Open Journal System based websites.
 - [PyramidalTests](https://github.com/andaniel05/PyramidalTests): Extends applications of PHPUnit to the BDD field.
 - [symfony-skeleton-vkernel](https://github.com/yceruto/symfony-skeleton-vkernel): Start point to build multiple Symfony applications with shared config, code and vendors in the same place/repo.
-- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framwork supporting Spanish language.
+- [Twenty'em WordPress Framework](https://github.com/rogertm/twenty-em): Wordpress framework supporting Spanish language.
 - [yii2-calendly](https://github.com/daxslab/yii2-calendly): Yii2 extension to include Calendly widgets.
 - [yii2-contactform-module](https://github.com/daxslab/yii2-contactform-module): Yii2 module to include contact forms.
 - [yii2-taggedview](https://github.com/daxslab/yii2-tagged-view): Yii2 extension to add standard HTML metatags and social one (Open Graph and Twitter Cards) in order to crontribute to webiste SEO.
